@@ -1,0 +1,1 @@
+{"description":"A vending machine pickup line: one line, one minute.","license":"MIT","name":"vending-fall-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
